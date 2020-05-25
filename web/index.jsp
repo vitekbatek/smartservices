@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  $Добро пожаловать на мой сайт (c) vitekbatek$
   </body>
 </html>
